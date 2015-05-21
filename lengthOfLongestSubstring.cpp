@@ -1,3 +1,5 @@
+/*  Using hash instead of array, making the runtime slower  */
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
